@@ -38,7 +38,7 @@ module.exports.run = async function ({ api, event }) {
 
   const msg = `
 ╭───× 𝐆𝐫𝐨𝐮𝐩 𝐈𝐧𝐟𝐨 ×───╮
-│ 🔰𝐑𝐀𝐇𝐀𝐓 𝐁𝐎𝐓🔰
+│ 🔰𝑺𝒐𝒉𝒂𝒈 𝐁𝐎𝐓🔰
 │ ───×
 │ 𝐍𝐚𝐦𝐞: ${groupName}
 │ 𝐆𝐫𝐨𝐮𝐩 𝐢𝐝: ${groupID}
