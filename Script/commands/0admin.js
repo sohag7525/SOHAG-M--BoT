@@ -148,7 +148,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
 			const { targetID, targetName } = await getTargetUser(api, event, content, Users);
 			
 			if (!targetID) {
-				return api.sendMessage("❌রাহাদ বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
+				return api.sendMessage("❌সোহাগ বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
 			}
 			
 			// Check if already admin
@@ -171,7 +171,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
 			const { targetID, targetName } = await getTargetUser(api, event, content, Users);
 			
 			if (!targetID) {
-				return api.sendMessage("❌রাহাদ বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
+				return api.sendMessage("❌সোহাগ বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
 			}
 			
 			// Check if already supporter
@@ -196,7 +196,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
 			const { targetID, targetName } = await getTargetUser(api, event, content, Users);
 			
 			if (!targetID) {
-				return api.sendMessage("❌রাহাদ বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
+				return api.sendMessage("❌সোহাগ বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
 			}
 			
 			// Check if user is admin
@@ -220,7 +220,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
 			const { targetID, targetName } = await getTargetUser(api, event, content, Users);
 			
 			if (!targetID) {
-				return api.sendMessage("❌রাহাদ বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
+				return api.sendMessage("❌সোহাগ বসকে ডাক দে🫩\nকীভাবে কমান্ড ব্যবহার করতে হয় শিখায় দিবো🥴", threadID, messageID);
 			}
 			
 			// Check if user is supporter
