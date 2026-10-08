@@ -5,7 +5,7 @@ const path = require('path');
 module.exports.config = {
     name: "4k",
     version: "1.0",
-    credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+    credits: "🔰𝐌𝐝 𝐒𝐨𝐡𝐚𝐠🔰",
     description: "Upscale image to 4K using API",
     usages: "!4k (reply to a photo)",
     commandCategory: "AI",
